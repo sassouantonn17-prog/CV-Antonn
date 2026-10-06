@@ -1,0 +1,19 @@
+:root {
+  --bg: #F3F3F1;
+  --bg-alt: #ECECEA;
+  --ink: #111111;
+  --ink-soft: #555555;
+  --line: #D6D6D3;
+  --accent: #0F7A4F;
+  --accent-soft: #E3EFE8;
+
+  --font-display: 'Anton', 'Impact', sans-serif;
+  --font-body: 'DM Sans', system-ui, sans-serif;
+  --font-number: 'DM Serif Display', Georgia, serif;
+
+  --container: 1200px;
+  --gutter: clamp(16px, 4vw, 48px);
+  --section-pad: clamp(56px, 8vw, 96px);
+  --ease-out: cubic-bezier(.22, 1, .36, 1);
+  color-scheme: light;
+}
